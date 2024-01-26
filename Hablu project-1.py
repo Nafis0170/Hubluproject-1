@@ -1,4 +1,4 @@
-
+#How to merge pdf
 from  PyPDF2 import PdfMerger
 AllPDF=["1.pdf.pdf","2.pdf.pdf"]
 x= PdfMerger()
