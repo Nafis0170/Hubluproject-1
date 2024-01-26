@@ -1,4 +1,4 @@
-#Mad libs Game( Funny game by fill in the blanks)
+#Mad Libs Game( Funny game by fill in the blanks)
 Username=input("Name:")
 Fathername=input('Father name:')
 Mothername=input('Mother Name:')
